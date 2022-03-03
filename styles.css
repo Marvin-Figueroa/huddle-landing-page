@@ -81,6 +81,7 @@ footer {
 .hero-cta {
   text-decoration: none;
   padding: 12px 50px;
+  color: var(--color-primary);
   background-color: white;
   border-radius: 20rem;
   display: inline-block;
